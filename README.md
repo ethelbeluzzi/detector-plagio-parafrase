@@ -83,8 +83,10 @@ Acesse no navegador: **http://localhost:8501**
    - **Mais similares (Léxico)** – ranking dos blocos com maior similaridade léxica.
    - **Mais similares (Semântico)** – ranking dos blocos com maior similaridade semântica.
 7. Use essas tabelas para inspecionar quais partes do texto tiveram maior proximidade com o corpus.
+
    
-<img width="949" height="471" alt="image" src="https://github.com/user-attachments/assets/f563ad62-ecdf-4029-bd1e-298e6664d254" />
+<img width="911" height="415" alt="image" src="https://github.com/user-attachments/assets/f41a0615-e1f3-4bdd-a800-dfcbbae96651" />
+
 
 ---
 
