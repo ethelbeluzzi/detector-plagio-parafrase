@@ -1,0 +1,26 @@
+Digital object identifier (DOI) é um padrão para identificação de documentos em redes de computadores, como a Internet.
+Atualmente, cresce a preocupação com a segurança de objetos digitais na Internet. Por isso, foi criado o DOI (Digital Object Identifier), um sistema para localizar e acessar materiais na web — especialmente, publicações em periódicos e obras protegidas por copyright, muitas das quais localizadas em bibliotecas virtuais.
+
+Caracterização
+O DOI representa um sistema de identificação numérico para conteúdo digital, como livros, artigos eletrônicos e documentos em geral. Foi desenvolvido em 1994 pela Associação de Publicadores Americanos (AAP), com a finalidade de autenticar a base administrativa de conteúdo digital. É concebido como um número, mas não tem um sistema de codificação pré-definido e também não traduz ou analisa esta numeração. O DOI atribui um número único e exclusivo a todo e qualquer material publicado (textos, imagens, etc.).
+Este número de identificação da obra é composto por duas sequências: (1) um prefixo (ou raiz) que identifica o publicador do documento; (2) um sufixo determinado pelo responsável pela publicação do documento. Por exemplo: 11.1111.1 / ISBN (ou ISSN)
+O prefixo/raiz DOI é nomeado pela IDF (International DOI Foundation), que garante que cada raiz é única. Os livros ou artigos publicados em periódicos, por exemplo, provavelmente utilizarão como sufixo o número que já consta do ISBN ou ISSN.
+Além de ser um mecanismo utilizado para garantir o pagamento de direitos autorais através de um sistema de distribuição de textos digitais, o DOI também é útil para auxiliar a localização e o acesso de materiais na web, facilitando a autenticação de documentos.
+Em 1998, os livros começaram a entrar nesse sistema, mas já existem cerca de três milhões de DOI's em uso, dando referências cruzadas e ativas sobre publicações acadêmicas e profissionais on-line.[carece de fontes?]
+
+No Brasil
+No Brasil, a plataforma Lattes do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), por exemplo, utiliza o DOI como uma forma de certificação digital das produções bibliográficas registradas pelos pesquisadores em seus currículos lattes. Quando um programa navegador encontra um número DOI, utiliza o prefixo para encontrar o banco de dados da editora e ali acessa as informações relativas ao livro ou ao periódico, que podem incluir dados do catálogo, resenhas e links. Este sistema começou a ser utilizado há pouco tempo no Brasil, sendo implantado em algumas soluções DRM, como a usada na venda do e-livro de João Ubaldo Ribeiro.
+
+Pesquisa do DOI
+Existe um procedimento informático para busca e atribuição do DOI de referências bibliográficas veiculado pelo SISBI - Sistema de Bibliotecas-UFU acessível em [1].
+
+Queda do sistema em 2015
+Em 20 de janeiro de 2015, o servidor principal do DOI caiu. A queda ocorreu porque a renovação do domínio doi.org não estava programada para ser realizada de maneira automática, e a Corporation for National Research Initiatives (CNRi) esqueceu de renovar manualmente. O domínio foi restaurado, mas 50% do seu tráfego inutilizado por 48 horas.
+
+Ligações externas
+domínio oficial
+citações DOI ocorrendo dentro da base de dados da Crossref em tempo real
+
+Referências
+Ligações externas
+doi.org

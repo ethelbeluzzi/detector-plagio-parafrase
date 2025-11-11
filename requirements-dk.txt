@@ -1,0 +1,13 @@
+numpy<2
+pandas
+scikit-learn
+scipy
+joblib
+sentence-transformers
+python-dotenv
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.0+cpu
+transformers
+streamlit
+pytest
+typing_extensions

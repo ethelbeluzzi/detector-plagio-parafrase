@@ -1,0 +1,38 @@
+Rede social é uma estrutura de relações sociais composta por pessoas, grupos ou organizações, conectadas por um ou vários tipos de relações que variam em intensidade, duração e função.
+Nas ciências sociais, o conceito de rede social é fundamental para compreender os padrões de interação entre atores sociais e analisar as estruturas e dinâmicas que deles emergem. O termo, que hoje se popularizou devido à internet (ver rede social virtual), tem origens bem anteriores à era digital e surgiu como uma categoria teórica e empírica para descrever e analisar as relações interpessoais e coletivas.
+
+Origens e desenvolvimento do conceito
+A compreensão da sociedade como formada por padrões de relações tem raízes na obra do sociólogo alemão Georg Simmel. Em Sociologia: Investigações sobre as formas de socialização (1908), Simmel argumenta que o social não é uma substância ou entidade estável, mas sim um fluxo contínuo de interações entre indivíduos. Ele introduziu a noção de que as formas sociais — como as díades e tríades — possuem lógicas próprias que moldam a experiência social. Na relação entre duas pessoas (díade), a interação é direta e pessoal, enquanto a introdução de uma terceira pessoa (tríade) cria novas dinâmicas, como alianças ou exclusões. Esse pensamento antecipa uma visão relacional da sociedade, na qual as estruturas emergem das conexões e interações entre os indivíduos, e não apenas de características isoladas destes.
+Em 1930, o psicossociólogo Jacob Moreno formalizou o estudo das redes sociais com a criação da sociometria, método que utiliza representações gráficas e matrizes para mapear padrões de interação e sentimentos entre indivíduos.
+Já na década de 1950, o antropólogo J. A. Barnes cunhou o termo “rede social” em sua pesquisa sobre relações comunitárias na Noruega. Para Barnes, as redes sociais eram compostas por uma série de relações entre indivíduos que não se limitavam a categorias formais como tribos ou classes sociais, mas que formavam um emaranhado de interações cotidianas.
+Nas décadas seguintes, o conceito de rede social se consolidou como categoria central nas ciências sociais, expandindo-se para campos como psicologia social, sociolinguística, estudos organizacionais e ciência política.
+
+Estrutura e elementos das redes sociais
+Uma rede social é composta por nós (ou vértices) e ligações (ou arestas). Os nós representam as entidades ou atores — que podem ser pessoas, grupos ou organizações — enquanto as ligações representam as conexões ou relações entre eles. Essas ligações podem ser de diferentes naturezas e classificadas conforme suas propriedades (ver Análise de redes sociais).
+Cada rede possui características específicas, observadas na direção de suas ligações, em sua densidade, centralidade, coesão e padrões de agrupamento. Essas propriedades ajudam a entender seu funcionamento e suas implicações sociais.
+Quando se fala em nós, por exemplo, o conjunto de métricas de centralidade é um dos mais relevantes. A centralidade se refere ao grau de importância ou influência de um ator (um nó) na rede. Segundo Mark Newman, em Networks: An Introduction (2010), essa importância pode ser mensurada de diferentes maneiras. Uma das métricas de centralidade é a de grau, que contabiliza as conexões diretas de um ator, sendo interpretada como um indicativo de visibilidade, popularidade ou influência local. Já a centralidade de intermediação (betweenness centrality) captura o grau em que um nó atua como intermediário nas interações entre outros pares. Isso confere ao ator capacidade de controlar o fluxo de informações e recursos. Além disso, A centralidade de proximidade mede o quão próximo um nó está de todos os outros, revelando sua eficiência no acesso a qualquer parte da rede.
+Outro conceito relevante é o de agrupamentos ou comunidades, que são subconjuntos de atores mais densamente conectados entre si do que com o restante da rede. Essas divisões podem refletir afinidades sociais, profissionais ou territoriais.
+A densidade é outra característica central, expressando a proporção de laços existentes sobre o total possível de conexões. Redes com alta densidade são marcadas por um maior grau de coesão, o que pode favorecer a circulação rápida de informações e o fortalecimento de normas e valores comuns.
+Em relação às posições estratégicas dentro da rede, destaca-se o conceito de buracos estruturais (structural holes), formulado por Ronald Burt em sua obra Structural Holes: The Social Structure of Competition (1992). Buracos estruturais representam lacunas entre partes desconectadas da rede. Atores que ocupam essas posições de intermediação têm vantagens estratégicas, pois controlam os fluxos de informações entre grupos diferentes e podem explorar essas conexões para obter ganhos sociais ou profissionais.
+No que se refere à intensidade e à natureza das conexões, Mark Granovetter introduziu a distinção entre laços fortes e laços fracos em seu estudo The Strength of Weak Ties (1973). Os laços fortes, caracterizados por frequente contato, intimidade e confiança, são predominantes nas relações familiares e entre amigos próximos. Já os laços fracos conectam indivíduos a conhecidos e pessoas fora de seus círculos íntimos. Apesar de parecerem menos significativos, os laços fracos são fundamentais para a difusão de informações e oportunidades, pois atravessam diferentes grupos e contextos sociais.
+
+Por fim, uma característica estrutural frequentemente destacada das redes sociais é a sua abertura e flexibilidade. Redes sociais são frequentemente descritas como sistemas horizontais e não hierárquicos, nos quais os vínculos podem ser criados e desfeitos com relativa facilidade. Como argumentam Fábio Duarte e Klaus Frey em Redes Urbanas, capítulo de O Tempo das Redes (2008), "redes não são, portanto, apenas uma outra forma de estrutura, mas quase uma não estrutura, no sentido de que parte de sua força está na habilidade de se fazer e desfazer rapidamente".
+
+Referências
+Bibliografia
+Jackson, Matthew O. (2003). "A Strategic Model of Social and Economic Networks". Journal of Economic Theory. 71: 44–74. doi:10.1006/jeth.1996.0108.
+Manski, Charles F. (2000). "Economic Analysis of Social Interactions". Journal of Economic Perspectives. 14: 115–36.
+Newman, Mark (2003). "The Structure and Function of Complex Networks". SIAM Review. 56: 167–256. doi:10.1137/S003614450342480.
+
+Ver também
+Análise de redes sociais
+Rede social virtual
+Rede geossocial
+Rede egocêntrica
+Mensageiro instantâneo
+
+Referências
+Bibliografia
+Jackson, Matthew O. (2003). «A Strategic Model of Social and Economic Networks». Journal of Economic Theory. 71: 44–74. ISSN 0022-0531. doi:10.1006/jeth.1996.0108  pdf[ligação inativa]
+Manski, Charles F. (2000). «Economic Analysis of Social Interactions». Journal of Economic Perspectives. 14: 115–36  [1] via JSTOR
+Newman, Mark (2003). «The Structure and Function of Complex Networks». SIAM Review. 56: 167–256. doi:10.1137/S003614450342480

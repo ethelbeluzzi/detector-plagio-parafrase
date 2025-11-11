@@ -1,0 +1,17 @@
+.git
+.github
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.venv
+venv
+.env
+.ipynb_checkpoints
+.mypy_cache
+.pytest_cache
+.vscode
+.idea
+dist
+build
+requirements.txt

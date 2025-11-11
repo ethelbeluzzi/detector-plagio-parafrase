@@ -1,0 +1,84 @@
+Desinformação é um conjunto de práticas e técnicas de comunicação que visam influenciar a opinião pública por meio da difusão intencional de informações falsas, distorcidas ou tendenciosas. O termo refere-se tanto a uma prática - desinformar - como a um conteúdo, a desinformação. 
+A desinformação é produzida para enganar, possui motivações políticas ou financeiras, visa gerar danos políticos, sociais ou econômicos, é direcionada a pessoas, grupos ou instituições em situação de vulnerabilidade, deliberadamente oculta seus produtores e visa a promoção de indivíduos e grupos com influência política ou econômica.
+
+Definição
+A Organização das Nações Unidas (ONU) define desinformação como a disseminação proposital de conteúdos enganosos para enganar e causar danos.  A desinformação tem como propósito consciente lesar direitos das pessoas para a obtenção de vantagens indevidas, sejam políticas ou econômicas. Caracteriza-se pela disseminação massiva impulsionada por ferramentas digitais que possibilitam que conteúdos enganosos alcancem uma ampla audiência. Em síntese, o conceito implica o dolo (má-fé) e a escala (virtualmente planetária).
+A desinformação é um fenômeno antigo, presente em diversas áreas da vida social, desde a publicidade enganosa até a manipulação de documentos, como mapas, fotografias, etc. Embora seja um problema histórico, a desinformação tem se intensificado nos últimos anos. A desinformação, apesar de falsa, possui características que a tornam persuasiva: ela faz sentido para quem a recebe, cria falsas crenças e é disseminada de forma estratégica.   
+A difusão de desinformação não é restrita ao contexto das  mídias sociais, muito embora, tais recursos sejam empregados em práticas de desinformação que visam restringir, minar ou desacreditar instâncias produtoras e divulgadores de conhecimentos como as universidades e a imprensa livre.
+
+A desinformação, frequentemente, é pautada em teorias conspiratórias e pode se infiltrar em discursos aparentemente convencionais e se propagar rapidamente, influenciando o comportamento das pessoas. Ela visa destruir a capacidade compartilhada e coletiva de percepção da verdade factual.  Sobre seu impacto nas relações sociais, Eugênio Bucci indica que Se  a  informação  ajuda  a  tecer laços de confiança na esfera pública, a  desinformação  dissolve  esses  laços. O termo é diferenciado de informação falsa, que se refere à propagação não intencional de informações incorretas. Nessa prática, a informação falsa não é compartilhada com o propósito de prejudicar ou causar danos. As pessoas compartilham informações incorretas sem ter consciência de sua falsidade Alheios ao caráter falso dos conteúdos, os sujeitos captam e compartilham conteúdos. 
+Em síntese, desinformação é uma prática de comunicação para enganar, possui motivações políticas ou financeiras, objetiva causar danos em termos políticos, sociais ou econômicos, é direcionada a pessoas, grupos ou instituições em situação de vulnerabilidade, deliberadamente oculta seus produtores e promove indivíduos e grupos com influência política ou econômica.
+
+Operacionalização
+A desinformação pode ser feita por agências de inteligência governamentais, por organizações não governamentais e empresas. Organizações de fachada configuram instância de desinformação, pois enganam o público sobre seus verdadeiros objetivos e controladores.
+A desinformação tem sido intencionalmente disseminada em mídias sociais, apresentando-se como notícias falsas, ou seja, desinformação disfarçada como artigos de notícias legítimos, com o objetivo de enganar as pessoas. A desinformação pode incluir a distribuição de documentos, manuscritos e fotografias falsificados, ou a propagação de rumores. O uso dessas táticas pode levar a repercussões negativas, trazendo consequências indesejadas como processos por difamação ou danos à reputação da pessoa ou instituição que desinforma.
+Desinformação é um termo frequentemente utilizado para se referir à manipulação e interferência de informações estrangeiras (em inglês, Foreign Information Manipulation and Interference - FIMI).   Estudos sobre desinformação, frequentemente, preocupam-se com o conteúdo da atividade, enquanto o conceito mais amplo de FIMI volta-se, sobretudo, ao comportamento do agente, descrito através dos conceitos de tática, técnica e procedimento inscritos na doutrina militar. 
+O Centro Shorenstein da Universidade de Harvard indica que o campo de pesquisas sobre desinformação é voltado  ao tema da disseminação e dos impactos da desinformação e da manipulação midiática, incluindo como a desinformação se espalha por meio de canais online e offline, e por que as pessoas são suscetíveis a acreditar em informações falsas assim como estratégias para mitigar seu impacto.  De acordo com um artigo de pesquisa de 2023 publicado na New Media & Society,  a desinformação circula nas mídias sociais por meio de campanhas enganosas implementadas de maneiras diversas que incluem: astroturfing, teorias da conspiração, clickbait, guerras culturais, câmaras de eco, fraudes, notícias falsas, propaganda, pseudociência e rumores.
+
+Em 2019, Camille François criou a estrutura ABC - acrônimo em inglês para Actors, Behaviors, Content -, para compreender diferentes modalidades de desinformação online:
+
+Atores manipuladores: deliberadamente envolvem-se em campanhas virais voltadas a enganar, sigilosas e projetadas para mascarar a identidade e a intenção de quem as criou. Exemplos:  trolls, mídia estatal e agentes militares.
+Comportamento enganoso: abrange a variedade de técnicas que atores manipuladores podem usar para aumentar e exagerar alcance, viralização e impacto de suas campanhas. Exemplos: fábrica de trolls, bots, astroturfing e engajamento pago.
+Conteúdo prejudicial: inclui notícias falsas sobre saúde, manipulação na mídia, como deepfakes, assédio virtual, extremismo violento, discurso de ódio ou terrorismo. 
+Em 2020, a Brookings Institution propôs alterar esta estrutura para incluir a Distribuição, caracterizada por protocolos técnicos que permitem, restringem e moldam o comportamento das pessoas em um espaço virtual.  Da mesma forma, o Carnegie Endowment for International Peace propôs acrescentar Nível para se referir à distribuição de conteúdos e às audiências atingidas, assim como Efeito em referência a dimensão da ameaça que um determinado caso representa.
+
+Retórica da desinformação[carece de fontes?]
+Apelo ao medo - Um público que tenha medo está em situação de receptividade passiva e admite mais facilmente qualquer tipo de indoutrinação ou a ideia que se lhe quer incutir; recorre-se a sentimentos instalados na psicologia do cidadão por preconceitos escolares e de educação, mas sem razões nem provas.
+Apelo à autoridade - Citar personalidades importantes para sustentar uma ideia, um argumento ou uma linha de conduta e negligenciar outras opiniões.
+Testemunho - Mencionar dentro ou fora de contexto casos particulares em vez de situações gerais para sustentar uma opção política.
+Efeito acumulativo - Persuasão do auditório para adoptar uma ideia insinuando que um movimento de massas irresistível e implacável está já comprometido no seu apoio, embora tal seja falso.
+Redefinição e revisionismo - Consiste em redefinir as palavras ou falsificar a história de forma parcial para criar uma ilusão de coerência.
+Procura de desaprovação ou pôr palavras na boca de alguém - Relacionada com o anterior, consiste em sugerir ou apresentar uma ideia ou acção que seja adoptada por um grupo adverso sem a estudar verdadeiramente. Afirmar que um grupo tem uma opinião e que os indivíduos indesejáveis, subversivos ou reprováveis a têm também. Isto predispõe os demais a mudar a sua opinião.
+Uso de generalidades e palavras virtuosas - As generalidades podem provocar emoção intensa no auditório. O amor à pátria e o desejo de paz, de liberdade, de glória, de justiça, de honra e de pureza permitem assassinar o espírito crítico do auditório, pois o significado destas palavras varia segundo a interpretação de cada indivíduo, mas o seu significado conotativo general é positivo e por associação os conceitos e os programas do propagandista serão percebidos como grandiosos, bons, desejáveis e virtuosos.
+Imprecisão intencional - Referir factos deformando-os ou citar estatísticas sem indicar as fontes ou todos os dados. A intenção é dar ao discurso um conteúdo de aparência científica sem permitir analisar a sua validade ou a sua aplicabilidade.
+Transferência - Esta técnica serve para projetar qualidades positivas ou negativas de uma pessoa, entidade, objeto ou valor (indivíduo, grupo, organização, nação, raça, etc...) sobre algo para fazer isto mais (ou menos) aceitável mediante cargas emotivas.
+Simplificação exagerada - Generalidades usadas para contextualizar problemas sociais, políticos, económicos ou militares complexos.
+Quidam - Para ganhar a confiança do auditório, o propagandista emprega o nível de linguagem e as maneiras e aparências de uma pessoa comum. Pelo mecanismo psicológico de projecção, o auditório encontra-se mais inclinado a aceitar as ideias que se apresentam deste modo, já que quem as presenta parece-lhe semelhante.
+Estereotipagem ou etiquetagem Esta técnica utiliza os preconceitos e os estereótipos do auditório para conseguir a adesão a algo.
+Bode expiatório - Lançando anátemas de demonização sobre um indivíduo ou um grupo de indivíduos, acusado de ser responsável por um problema real ou suposto, o propagandista pode evitar falar dos verdadeiros responsáveis e aprofundar o problema.
+Uso de chavões (slogans) - Frases breves e curtas, fáceis de memorizar e reconhecer e que permitem deixar um traço em todos os espíritos, de forma positiva, ou de forma irónica: "Bruto é um homem honrado", por exemplo.
+Eufemismo ou deslize semântico - Substituição de uma expressão por outra retirando-lhe todo o conteúdo emocional e esvaziá-la do seu sentido: "interrupção voluntária da gravidez" em vez de aborto induzido, "solução habitacional" em vez de habitação, "limpeza étnica" por matança racista. Outros exemplos: "danos colaterais" em vez de vítimas civis, "liberalismo" em vez de capitalismo, "lei da selva" em vez de liberalismo, "reajuste laboral" ou downsizing em vez de demissões em massa, "pessoas com preferências sexuais diferentes" em lugar de homossexuais, "pessoas com capacidades diferentes" em lugar de deficientes e "relações impróprias" em vez de adultério.
+Adulação - Uso de qualificativos agradáveis, por vezes sem moderação, com a intenção de convencer o receptor: "Você é muito inteligente, deveria estar de acordo com o que lhe digo".
+
+Estratégias para disseminar desinformação
+Ataque de desinformação
+A literatura científica sobre a forma como a desinformação se propaga está em expansão. Estudos mostram que a desinformação disseminada em mídias sociais pode ser classificada em dois grandes estágios: propagação e eco. Propagação ocorre quando atores maliciosos, estrategicamente, inserem conteúdos enganosos, como notícias falsas, em um ecossistema de mídia social. Eco é quando a audiência dissemina argumentos de desinformação como opiniões próprias, muitas vezes incorporando a desinformação em uma retórica de oposição.
+
+Manipulação da Internet
+Manipulação da internet é a cooptação de tecnologias digitais online, incluindo algoritmos, bots e scripts automatizados para fins comerciais, sociais, militares ou políticos.A manipulação da internet e das mídias sociais é o principal veículo para a disseminação da desinformação devido à importância das plataformas digitais para a comunicação cotidiana. Quando empregada para fins políticos, a manipulação da internet pode ser usada para direcionar a opinião pública, polarizar cidadãos, disseminar teorias da conspiração, e silenciar dissidentes políticos. A manipulação da internet também pode ser feita para gerar lucro, por exemplo, para prejudicar adversários corporativos ou políticos e melhorar a reputação de uma marca.[108]. Por vezes, a manipulação da internet é usada para descrever a censura seletiva na internet[109][110] ou violações seletivas da neutralidade da rede.
+Estudos mostram quatro métodos principais de propagação de desinformação online: 
+
+Censurar seletivamente
+Manipular classificações de pesquisa
+Hackear e divulgar
+Compartilhar desinformação diretamente
+
+Uso de tecnologias de publicidade online
+A desinformação é amplificada devido às más práticas relacionadas à publicidade online. As tecnologias de publicidade online têm sido utilizadas para amplificar a desinformação devido aos incentivos financeiros e à monetização de conteúdos gerados pelos usuários e de notícias falsas.  Uma supervisão frouxa sobre o mercado da publicidade online pode ser usada para amplificar a desinformação, favorecendo práticas de uso de recursos não rastreáveis para propaganda política.
+
+Replataformização da desinformação
+Com o endurecimento das políticas contra fake news em plataformas tradicionais como YouTube e Facebook, a desinformação passou a se reorganizar em ambientes digitais menos regulamentados, um fenômeno conhecido como replataformização. Esse processo envolve a migração de conteúdos desinformativos para plataformas alternativas – os chamados "clones do YouTube" –, onde há menos fiscalização e maior liberdade para disseminar narrativas falsas. Essa descentralização não apenas garante a continuidade da desinformação, mas também cria novas infraestruturas que dificultam sua regulação e remoção.
+Além da migração, a replataformização se apoia em estratégias que simulam credibilidade, como o uso de elementos visuais e narrativos inspirados no jornalismo. Canais desinformativos adotam estéticas profissionais, linguagem técnica e especialistas duvidosos para gerar confiança no público. Essa estrutura reforça a disseminação de desinformação ao apresentar conteúdos falsos como uma "versão alternativa dos fatos", aproveitando-se da retórica da objetividade para mascarar interesses ideológicos e manipular percepções sobre temas sensíveis, como saúde pública e política.
+
+Desinformação e Política
+Nas eleições presidenciais brasileiras de 2018 houve disparos intencionais massivos de pacotes de informações enganosas pelo dispositivo de comunicação Whatsapp.
+
+Resposta
+Respostas de líderes culturais
+O Papa Francisco condenou a prática de desinformação em uma entrevista de 2016, depois de ser alvo de um site de notícias falsas durante a eleição presidencial de 2016 dos EUA, que falsamente alegou que ele apoiava Donald Trump.    O Papa disse que a pior coisa que a mídia poderia fazer era espalhar desinformação, prática que equiparou a um pecado.
+
+Pesquisas
+A investigação científica sobre desinformação está crescendo como uma área de pesquisa aplicada.   No campo, o apelo para classificar formalmente a desinformação como uma ameaça à segurança cibernética é feito devido ao seu aumento em mídias sociais.  Algumas mídias sociais atuaram ativamente em campanhas de desinformação com técnicas que incluíam o uso de bots para amplificar o discurso de ódio, a coleta ilegal de dados e trolls pagos para assediar e ameaçar jornalistas.
+Enquanto a pesquisa sobre desinformação se concentra principalmente em como os atores orquestram enganos nas mídias sociais, principalmente por meio de notícias falsas, uma pesquisa investiga como as pessoas adotam conteúdos iniciados como enganos e fazem com que circulem como sendo suas opiniões próprias. Como resultado, a pesquisa mostra que a desinformação pode ser definida como um programa que incentiva o engajamento em discursos oposicionistas, ou seja, guerras culturais, através das quais a desinformação circula como munição retórica para argumentações infindáveis.À medida que a desinformação se entrelaça com as guerras culturais, as controvérsias baseadas em identidade constituem um veículo através do qual a desinformação se dissemina nas mídias sociais. Isso significa que a desinformação prospera, não apesar dos ressentimentos expressos, mas justamente por causa deles. O motivo é que as controvérsias constituem terreno para debates intermináveis que solidificam pontos de vista.
+
+Ver também
+Contrainformação
+Falsificação de conhecimento
+Falsificação de preferências
+Informação falsa
+Medidas ativas
+Notícia falsa (fake news)
+Operação INFEKTION
+
+
+== Referências ==

@@ -1,0 +1,60 @@
+Uma constituição é o conjunto de normas jurídicas que ocupa o topo da hierarquia do direito de um Estado, e que pode ou não ser codificado como um documento escrito. 
+Tipicamente, a constituição enumera e limita os poderes e funções do Estado, e assim formam, ou seja, constituem a entidade que é esse Estado. No caso dos países (denominação coloquial do Estado nacional soberano) e das regiões autônomas dos países, o termo refere-se especificamente a uma constituição que define a política fundamental, princípios políticos e estabelece a estrutura, procedimentos, poderes e direitos de um governo. Ao limitar o alcance do próprio governo, a maioria das constituições garante certos direitos para as pessoas. O termo constituição pode ser aplicado a qualquer sistema global de leis que definem o funcionamento de um governo, incluindo várias constituições históricas não codificadas que existiam antes do desenvolvimento de modernas constituições.
+
+Classificações
+A Constituição rígida ou complexa é aquela que se situa no topo da pirâmide normativa, não podendo ser modificada pelos mesmos procedimentos que a legislação infraconstitucional, e aplica-se a diferentes níveis de organização política. Elas existem em nível nacional (por exemplo, a codificada Constituição do Canadá, a não-codificada Constituição do Reino Unido), por exemplo, em nível regional (a Constituição do Rio de Janeiro), e às vezes em níveis mais baixos. Ela também define os vários grupos políticos e outros, como partidos políticos, grupos de pressão e sindicatos.
+
+A Constituição supranacional é possível (por exemplo, se propôs a Constituição da União Europeia). Uma das doutrinas de direito internacional admite uma relativização da soberania absoluta das nações modernas, assumindo que a constituição pode ser limitada pelos tratados internacionais, como a Convenção Americana sobre Direitos Humanos e a Convenção Europeia dos Direitos Humanos, que vincula os 47 países membros do Conselho da Europa.
+Como exemplo da existência de constituições em nível menor que o do Estado soberano, temos a separação dos países em estados independentes, no caso o Brasil, segundo o art. 1 da constituição: Art. 1º A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos (...).
+Assim, nos Estados Federativos, além da Constituição Federal, temos Constituições de cada Estado Federado, subordinadas às previsões da Constituição Federal. É o poder constituinte derivado decorrente.
+
+Origens
+O artigo 5.º da Declaração Universal dos Direitos dos Povos, da ONU, dispõe que todo povo tem o direito imprescritível e inalienável à autodeterminação. Essa declaração tem como princípio de que não são os Estados que estabelecem as regras de tais direitos, mas sim os próprios povos, com suas demandas e exigências.
+A teoria constitucional moderna - técnica específica de limitação do poder com fins garantistas, segundo a definição do constitucionalista português José Gomes Canotilho — tem a sua origem nas revoluções americana e francesa e coincide com a positivação dos direitos fundamentais.
+
+Procedimentos
+A Constituição é elaborada pelo poder denominado constituinte originário ou primário (cujo poder é, segundo a teoria clássica hoje questionada, soberano e ilimitado) e nos países democráticos é exercido por uma Assembleia Constituinte.
+A reforma (revisão ou emenda) da Constituição é feita pelo denominado poder reformador. O poder reformador é derivado, condicionado e subordinado à  própria Constituição, enfim é limitado pela vontade soberana do Poder Constituinte Originário. No caso da Constituição escrita e rígida, há a exigência de procedimentos mais difíceis e solenes para elaboração de emendas constitucionais do que se exige para a criação de leis ordinárias.
+Muitas Constituições proíbem a abolição do conteúdo de algumas normas consideradas fundamentais (núcleo intangível). No Brasil (cuja constituição atual foi promulgada em 1988), essas normas são conhecidas como cláusulas pétreas, e são previstas pelo art. 60 (implicitamente irreformável), que também prevê além das cláusulas pétreas (limitações materiais), limitações circunstanciais e formais.
+Dentre as cláusulas pétreas, podemos citar, o artigo primeiro que trata dos fundamentos da República Federativa do Brasil; o artigo 3º que trata dos objetivos de nossa sociedade; o artigo 5.º que elenca as garantias e direitos fundamentais e invioláveis; o artigo 6º que elenca um grupo de direitos mínimos (Piso Vital Mínimo) sem os quais o ser humano (no Brasil) não se desenvolve plenamente. Há outros, como o art. 170 (atividade econômica) e o 225 (meio ambiente).
+
+Mecanismos de controle
+A principal garantia dessa superioridade (supremacia, primazia) das Constituições rígidas são os mecanismos de controle de constitucionalidade, que permitem afastar num caso concreto a aplicação de uma norma incompatível com texto constitucional (controle difuso) ou retirá-las do ordenamento jurídico, quando uma norma, em tese, violar a Constituição (controle concentrado).
+As demais normas jurídicas (ditas infraconstitucionais) devem estar em concordância com a Constituição, não podendo contrariar as exigências formais impostas pela própria Constituição para a edição de uma norma infraconstitucional (constitucionalidade formal) nem o conteúdo da Constituição (constitucionalidade material).
+
+Aspectos diversos
+Entidades não políticas, como corporações e associações, incorporadas ou não, têm muitas vezes um sistema normativo equivalente a uma Constituição, muitas vezes chamado de memorando ou estatuto.
+A Constituição da Índia é a Constituição mais longa escrita de qualquer país do mundo, contendo 448 artigos e 94 emendas com 117 369 palavras em sua versão na língua inglesa.
+
+Princípio da Unidade da Constituição
+Fundamental para a manutenção do Estado, o princípio da unidade regula e pacífica os conflitos de diversos grupos que formam uma sociedade. Portanto, necessário se faz que os cidadãos se entendam como responsáveis por este princípio e não só o defendam como também o sustente.
+
+Segundo este princípio, o direito constitucional deve ser interpretado de forma a evitar antinomias entre suas normas e entre os princípios constitucionais. Deve-se considerar a Constituição na sua globalidade, não interpretando as normas de forma isolada, mas sim como preceitos integrados num sistema interno unitário de normas e princípios.
+Em decorrência desse princípio, tem-se que todas as normas da Constituição possuem igual dignidade, não havendo hierarquia dentro dela; além disso, há controvérsia sobre a existência de normas constitucionais inconstitucionais, justamente pela ausência de hierarquia entre elas. Enquanto uns defendem que as cláusulas pétreas implicam em tal possibilidade, outros a negam. Por isso, é polêmico o reconhecimento da inconstitucionalidade de uma norma constitucional em face de outra; Por fim, a escola atual da jurisprudência dos valores indica a resolução de antinomias entre princípios constitucionais pelo método da ponderação. Neste caso, o texto constitucional deve ser visualizado de modo harmônico.
+
+Princípios do desenho constitucional
+Quando as tribos passaram a viver em cidades e a estabelecer as nações, muitas viviam com costumes não escritos, enquanto alguns países, monarcas autocráticos mesmo tirânicos, governaram por decreto, ou mero capricho pessoal. Tal regra levou alguns pensadores a assumir a posição de que o que importava não era o desenho das instituições governamentais e operações, assim como o caráter dos governantes. Este ponto de vista pode ser constatado em Platão, que designou-o por governo de "reis-filósofos", escritores posteriores, como Aristóteles, Cícero e Plutarco, analisaram projetos de governo do ponto de vista jurídico e histórico.
+
+Nos últimos escritos, Orestes Brownson iria tentar explicar o que os arquitetos constitucionais estavam tentando fazer. De acordo com Brownson há, em certo sentido, uma hierarquia entre três "constituições" envolvidas: a primeira Constituição, é a da natureza que inclui tudo o que designamos por "Lei natural". A segunda é a constituição da sociedade, um conjunto de regras não escritas e comumente entendidas pela sociedade formada por um contrato social antes de estabelecer governo e, pela qual estabelece a terceira e última constituição, a constituição de governo. A constituição da sociedade inclui os procedimentos para a tomada de decisões por convenções públicas convocadas por edital e conduzidas por regras estabelecidas em protocolo. Cada constituição deve ser consistente com, e derivam sua autoridade, da anterior, bem como a partir de um ato histórico de formação da sociedade ou ratificação constitucional. Brownson argumentou que o Estado é uma sociedade com domínio efectivo sobre um território bem definido, que o consentimento para uma constituição bem concebida de governo surge da presença nesse território, e que é possível as disposições de uma constituição de governo serem "inconstitucionais" se elas forem inconsistentes com as constituições da natureza ou da sociedade. Brownson argumentou que não é a ratificação sozinha que dá legitimidade a uma constituição de governo, mas que também deve ser competentemente desenvolvida e aplicada.
+
+Ver também
+Direito constitucional
+Constituição do Brasil
+Constituição de Portugal
+Constituição dos Estados Unidos
+Constituição da República Romana
+Constituição de Medina
+
+Notas
+Referências
+Ligações externas
+As Constituições dos Países de Língua Portuguesa Comentadas (PDF). 91. Brasília: Edições do Senado Federal. 2007 
+Constitute- arquivo de constituições do Google
+Constitutions of the World- portal de textos integrais de constituições atuais e históricas de todo o mundo
+Constitutions of the World- portal de textos integrais de constituições atuais e históricas de todo o mundo
+Constituição da República de Angola
+Constituição de República de Cabo Verde
+Constituição da República da Guiné-Bissau
+Constituição da República de Moçambique
+Constituição da República Democrática de S. Tomé e Príncipe
+Constituição da República Democrática de Timor-Leste
